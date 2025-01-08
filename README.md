@@ -1,5 +1,7 @@
 # Simulating a CDO Loss Distribution
 
+*Completion Date: May 2<sup>nd</sup>, 2024*
+
 [In this project](/CDO-Loss-Study.ipynb) I simulate a CDO (Collateralized Debt Obligation) contract consisting of 100 bonds each with the same face value. 
 The one-period probability of default (implied from the CDS spread on each issuer) is considered as the intensity parameter of a Poisson process, which allows one to model ‘time to default’ for each issuer. 
 
